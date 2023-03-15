@@ -15,6 +15,9 @@ const poems = [
     image: "bee.jpeg",
   },
   {
+    author: "Abdishakur",
+    poem: "Roses are red \n Violets are blue \n Jerry Seinfeld is considering \n Making Bee Movie 2",
+    image: "favicon.ico",
     author: "Racer",
     poem: "The sun sets low in the sky, As the stars twinkle up high, Nature's beauty never dies.",
     image: "starrynight.jpeg",
@@ -31,7 +34,7 @@ const poems = [
     author: "Matt",
     poem: "C: ChatGPT is currently down \n H: Huge demand has caused the site to crash \n A: All users will have to wait \n T: Time is needed for the servers to catch up \n G: Go grab a coffee and check back soon \n P: Patience is key in this situation \n T: Trust that the team is working hard to fix it up",
     image: "sunflower.jpeg",
-  }
+  },
 ];
 
 let displayPoems = (array) => {

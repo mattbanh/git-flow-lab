@@ -14,6 +14,12 @@ const poems = [
     poem: "Roses are red \n Violets are blue \n Jerry Seinfeld is considering \n Making Bee Movie 2",
     image: "bee.jpeg",
   },
+  {
+    author: "Karen",
+    poem: "Roses are red \n Violets are blue \n white wine costs less \n than a dinner for two",
+    image:
+      "https://s.keepmeme.com/files/en_posts/20200819/4fa40b57d8e0e0883eeff945503d94aecrying-cat-face-meme.jpg",
+  },
 
   // YOUR CODE HERE: Add an object containing two key value pairs: author and poem. Set the author property as equal to a string with your first name. Set the poem property as equal to a short "roses are red" poem. Use the new line character as in the example when you would like a line break.
   {

@@ -19,6 +19,19 @@ const poems = [
     poem: "The sun sets low in the sky, As the stars twinkle up high, Nature's beauty never dies.",
     image: "starrynight.jpeg",
   },
+  {
+    author: "Karen",
+    poem: "Roses are red \n Violets are blue \n white wine costs less \n than a dinner for two",
+    image:
+      "https://s.keepmeme.com/files/en_posts/20200819/4fa40b57d8e0e0883eeff945503d94aecrying-cat-face-meme.jpg",
+  },
+
+  // YOUR CODE HERE: Add an object containing two key value pairs: author and poem. Set the author property as equal to a string with your first name. Set the poem property as equal to a short "roses are red" poem. Use the new line character as in the example when you would like a line break.
+  {
+    author: "Matt",
+    poem: "C: ChatGPT is currently down \n H: Huge demand has caused the site to crash \n A: All users will have to wait \n T: Time is needed for the servers to catch up \n G: Go grab a coffee and check back soon \n P: Patience is key in this situation \n T: Trust that the team is working hard to fix it up",
+    image: "sunflower.jpeg",
+  }
 ];
 
 let displayPoems = (array) => {

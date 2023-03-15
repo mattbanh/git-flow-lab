@@ -6,11 +6,7 @@
 
 
 body {
-<<<<<<< HEAD
   background-color: blue;
-=======
-  background-color: #abdbe3;
->>>>>>> develop
 }
 
 .page-header {
@@ -27,7 +23,7 @@ body {
 
 .poem {
   width: 100%;
-  background-color: white;
+  background-color: lightblue;
   margin-bottom: 1rem;
 }
 

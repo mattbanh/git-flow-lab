@@ -15,6 +15,11 @@ const poems = [
     image: "bee.jpeg",
   },
   {
+    author: "Rihanna",
+    poem: "Please better have my money",
+    image: "riri.jpeg",
+  },
+  {
     author: "Racer",
     poem: "The sun sets low in the sky, As the stars twinkle up high, Nature's beauty never dies.",
     image: "starrynight.jpeg",
